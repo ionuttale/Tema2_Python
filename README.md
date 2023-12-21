@@ -1,3 +1,7 @@
+Module necesare: pip install -r requirements.txt
+
+Executare: python app.py
+
 #Modules required: pip install -r requirements.txt
 
 #Execute the program: python app.py
