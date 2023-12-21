@@ -1,1 +1,3 @@
-pandas matplotlib flask io
+pandas
+matplotlib
+flask
